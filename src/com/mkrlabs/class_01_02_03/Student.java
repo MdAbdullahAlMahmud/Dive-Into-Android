@@ -1,4 +1,4 @@
-package com.mkrlabs;
+package com.mkrlabs.class_01_02_03;
 
 public class Student {
 
